@@ -1,0 +1,8 @@
+name: 'lipophilicity'
+contract_rings: True
+num_round: 100
+num_class: 1
+contract_cliques: False
+min_nodes_in_cliques: null
+consider_outside_neighbors: True
+num_node_features: 9

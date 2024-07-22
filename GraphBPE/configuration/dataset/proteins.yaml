@@ -1,0 +1,8 @@
+name: 'proteins'
+contract_rings: False
+num_round: 100
+num_class: 2
+contract_cliques: True
+min_nodes_in_cliques: null
+consider_outside_neighbors: True
+num_node_features: 3

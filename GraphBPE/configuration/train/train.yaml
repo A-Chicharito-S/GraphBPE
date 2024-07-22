@@ -1,0 +1,9 @@
+batch_size: 128
+lr: 1e-2
+dropout_rate: 0.1
+k_fold: 0
+num_device: 1
+max_epochs: 100
+label_smoothing: 0.1
+norm: 'BatchNorm'  # null, 'GraphNorm'
+construct_hyper_method: 'chem'  # 'chem' or 'h2g', only used on train_HGNN, where we test hypergraph construction methods other than centroid and ours

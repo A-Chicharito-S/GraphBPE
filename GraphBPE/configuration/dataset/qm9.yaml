@@ -1,0 +1,7 @@
+name: 'qm9'
+contract_rings: True
+num_round: 1000
+num_class: 1
+contract_cliques: False
+min_nodes_in_cliques: null
+consider_outside_neighbors: True

@@ -1,0 +1,4 @@
+model_id: 'GIN'
+in_channels: -1
+hidden_channels: 32
+num_layer: 1

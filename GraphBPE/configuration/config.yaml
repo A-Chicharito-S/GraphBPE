@@ -1,0 +1,4 @@
+defaults:
+  - dataset: mutag
+  - model: gcn
+  - train: train

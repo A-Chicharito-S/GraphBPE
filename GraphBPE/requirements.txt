@@ -1,0 +1,10 @@
+torch
+numpy
+scikit-learn
+torch_geometric
+rdkit
+pandas
+hydra-core
+omegaconf
+networkx
+lightning
